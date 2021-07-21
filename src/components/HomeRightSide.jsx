@@ -131,7 +131,7 @@ const HomeRightSide = (e) => {
         &bull; Terms &bull; Locations &bull; Top Accounts &bull; Hashtags &bull; Language
       </div>
 
-      <div class="item color-3 font-11">
+      <div class="item color-3 font-11 copyright">
         &copy; 2021 INSTAGRAM FROM FACEBOOK
       </div>
     </div>
