@@ -1,0 +1,16 @@
+.home-section{
+    padding-top:30px;
+    // display:block;
+    .home-section-inner{
+        // display:flex;
+        flex-wrap:wrap;
+        .left{
+            float:left;
+            width:70%;
+        }
+        .right{
+            float:right;
+            width:27.5%;
+        }
+    }
+}
